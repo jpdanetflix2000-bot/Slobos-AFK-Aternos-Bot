@@ -8,7 +8,7 @@
   "server": {
     "ip": "skibidysmp5432.aternos.me:31485",
     "port": 31485,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
