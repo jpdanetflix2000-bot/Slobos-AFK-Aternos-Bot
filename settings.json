@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skibidysmp5432.aternos.me:31485",
+    "ip": "skibidysmp5432.aternos.me",
     "port": 31485,
     "version": "",
     "try-creative": false
