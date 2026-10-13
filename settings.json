@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skibidysmp5432.aternos.me",
-    "port": 31485,
+    "ip": "SkibidySMPReborn.aternos.me",
+    "port": 31032,
     "version": "",
     "try-creative": false
   },
