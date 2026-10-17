@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Server_Bot",
   "bot-account": {
-    "username": "RailwayBOT2",
+    "username": "Server_Bot",
     "password": "chalol78",
     "type": "offline"
   },
