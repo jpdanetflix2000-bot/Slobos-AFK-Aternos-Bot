@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SkibidySMPReborn.aternos.me",
-    "port": 31032,
+    "ip": "skibidysmp3.mcserv.xyz",
+    "port": "",
     "version": "",
     "try-creative": false
   },
